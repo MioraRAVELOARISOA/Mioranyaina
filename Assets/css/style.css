@@ -1,0 +1,224 @@
+body {
+            color: #E0F2F1;
+  }
+  .btn-group .button {
+    background-color:#FFCDD2;
+    border: none;
+    color: white;
+    padding: 24px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    float: left;
+}
+.btn-group{
+   right:-120px
+}
+.btn-group .button:hover {
+    background-color:#C62828;
+}
+.my{
+    font-size:50px;
+    color: black;
+}
+ .hy{
+font-size: 18px;
+    color: black;
+}
+  h1{
+    font-size: 30px;
+    color: black;
+  }
+ h2{
+	color: black;
+	text-align: center;
+	font-family:algerian;
+	font-size: 50px;
+}
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  
+ .bg-2 { 
+      background-color: #FCE4EC;
+      color: #ffffff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a {
+      color: #00BCD4 !important;
+  }
+table {
+    font-family:chiller, sans-serif;
+    font-size: 30px;
+    border-collapse: collapse;
+    position: relative;
+    width: 500px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 12px;
+}
+
+tr,th,td:nth-child(even) {
+    background-color:black;
+}
+
+  .im{
+border-radius:40px; 
+animation:zoomInUp;
+animation-duration:5s;
+width:350px;
+height:300px;
+float:left;
+position: relative;
+}
+
+#soratr:hover{
+	font-family: chiller;
+	font-size:25px;
+	color: black;
+	animation-name:bounceOut ;
+	animation-iteration-count: initial;
+	animation-duration: 50s;
+}
+#teny:hover{
+	font-family: chiller;
+	text-align:center;
+	font-size:25px;
+	color: black;
+	animation-name:bounceOut ;
+	animation-iteration-count: initial;
+	animation-duration: 50s;
+}
+#map {
+        height: 400px;
+        width: 100%;
+       }
+#tab2{
+   width:370px;
+   height:480px;
+   border:3px solid black;
+   float :left;
+   margin-left:50px;
+   box-shadow:12px 10px 8px;
+}
+#tab2:hover{
+   color:grey;
+   animation-name: bounceInUp;
+   animation-iteration-count: infinite;
+}
+.teny{
+  color: black;
+  font-size: 18px;
+}
+.miora:hover{
+  width: 100px;
+  height: 150px;
+  animation-name:bounceInUp;
+  animation-duration:5s; 
+  border-radius:45%;
+
+}
+#tab4{
+   width:200px;
+   height:250px;
+   border:3px solid black;
+   float :left;
+   margin-left:50px;
+   box-shadow:12px 10px 8px;
+   border-radius: 20%;
+}
+#tab2:hover{
+   color:grey;
+   animation-name: bounceInUp;
+   animation-iteration-count: infinite;
+}
+.ten{
+ font-family:forte ;
+  text-align:center;
+  font-size:400px;
+  color: black;
+  animation-name:zoomInUp ;
+  animation-iteration-count: initial;
+  animation-duration: 5s; 
+}
+.teny1{
+ font-family:forte ;
+  text-align:center;
+  font-size:20px;
+  color: black;
+  animation-name:zoomInUp ;
+  animation-iteration-count: initial;
+  animation-duration: 1s; 
+}
+.teny{
+ font-family:forte ;
+  text-align:center;
+  font-size:20px;
+  color: black; 
+}
+.over{
+   font-family: chiller;
+  text-align:center;
+  font-size:22px;
+  color: black;
+ 
+}
+#mi{
+  font-family:slideInUp;
+  text-align:center;
+  font-size:300px;
+  color: black;
+}
+progress{
+    display: inline-block;
+    width: 300px;
+    height: 20px;
+    padding: 3px 3px 2px 3px;
+    background: #D32F2F; 
+    border: 1px solid #D32F2F;
+    border-radius: 15px;
+    box-shadow: 0 1px 0 #D32F2F;   
+}
+#tab1{
+   color:black;
+   width:600px;
+   height:480px;
+   border:3px solid black;
+   float :left;
+   margin-left:50px;
+   box-shadow:12px 10px 8px;
+    border-radius: 15px;
+}
+#tab1:hover{
+   color:grey;
+   animation-name: bounceInUp;
+   animation-iteration-count: infinite;
+}
+.img-thumbnail1:hover{
+    border-radius:70%; 
+}
+.img-thumbnail1:{
+
+    border-radius:45%; 
+}
+.img-thumbnail2{
+  animation-name:pulse; 
+  animation-duration: 10s;
+  border-radius: 15px;
+}
